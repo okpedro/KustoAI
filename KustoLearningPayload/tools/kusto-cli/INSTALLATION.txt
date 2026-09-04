@@ -1,0 +1,5 @@
+Package: Microsoft.Azure.Kusto.Tools
+Version: 14.1.2
+Target: tools/net8.0
+Source: https://www.nuget.org/packages/Microsoft.Azure.Kusto.Tools/14.1.2
+Installed: 2026-07-16
